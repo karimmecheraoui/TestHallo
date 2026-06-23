@@ -1,0 +1,116 @@
+{
+  "priorities": [
+    {
+      "name": "P1",
+      "description": "Critical Incident"
+    },
+    {
+      "name": "P2",
+      "description": "High Incident"
+    }
+  ],
+  "distributionLists": [
+    {
+      "name": "RWE Renewables",
+      "email": "sales-de@company.com"
+    },
+    {
+      "name": "RWE Offshore Wind",
+      "email": "it-ops@company.com"
+    },
+    {
+      "name": "Karim",
+      "email": "UI923839@rwe.com"
+    },
+    {
+      "name": "MIT",
+      "email": "mit@rwe.com"
+    },
+    {
+      "name": "RWE Supply & Trading GmbH",
+      "email": "Gregor-Thorsten.Bahr@rwe.com"
+    },
+    {
+      "name": "RWE Clean Energy, LLC",
+      "email": "it-ops7@company.com"
+    }
+  ],
+
+  "headers": [
+    {
+      "priority": "P1",
+      "status": "Open",
+      "path": "/Images/Header/rwe_header-v2_mi-info-prio1-open.png"
+    },
+    {
+      "priority": "P1",
+      "status": "Resolved",
+      "path": "/Images/Header/rwe_header-v2_mi-info-prio1-resolved.png"
+    },
+    {
+      "priority": "P1",
+      "status": "In Progress",
+      "path": "/Images/Header/rwe_header-v2_mi-info-prio1-update.png"
+    },
+    {
+      "priority": "P2",
+      "status": "Open",
+      "path": "/Images/Header/rwe_header-v2_mi-info-sev2-new.png"
+    },
+    {
+      "priority": "P2",
+      "status": "Resolved",
+      "path": "/Images/Header/rwe_header-v2_mi-info-sev2.png"
+    },
+
+   
+    {
+      "priority": "General",
+      "status": "Major",
+      "path": "/Images/Header/rwe_header-v2_2_major-problem-report.png"
+    },
+    {
+      "priority": "General",
+      "status": "Enhanced",
+      "path": "/Images/Header/rwe_header-v2_2_enhanced-major-incident.png"
+    },
+    {
+      "priority": "General",
+      "status": "Internal",
+      "path": "/Images/Header/rwe_header-v2_internal-it-notification.png"
+    },
+    {
+      "priority": "General",
+      "status": "Notification",
+      "path": "/Images/Header/rwe_header-v2_it-notifications.png"
+    },
+    {
+      "priority": "General",
+      "status": "Continuity",
+      "path": "/Images/Header/rwe_header-v2_it-service-continuity.png"
+    },
+    {
+      "priority": "General",
+      "status": "Maintenance",
+      "path": "/Images/Header/rwe_header-v2_itsr.png"
+    },
+
+    
+    {
+      "priority": "Planned",
+      "status": "Outage",
+      "path": "/Images/Header/rwe_header-v2_planned-outage.png"
+    },
+    {
+      "priority": "West",
+      "status": "TCAB",
+      "path": "/Images/Header/rwe_header-v2_west-it-tcab.png"
+    },
+    {
+      "priority": "West",
+      "status": "PreTCAB",
+      "path": "/Images/Header/rwe_header-v2_west-pre-tcab.png"
+    }
+  ]
+
+}
